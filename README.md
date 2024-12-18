@@ -1,16 +1,8 @@
-# np_3
+# Nasto Picker
 
-A new Flutter application.
+Nasto Picker is a simple application that helps users decide which snack to have. It allows users to randomly select a snack from a predefined list to make snack selection easy for anyone who is tired to ask themself everyday what snack to choose!
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Random Snack Selection**: Randomly picks a snack from the list based on user preferences.
+- **Custom Snack List**: Users can add their own snacks to the list and store them for future use.
